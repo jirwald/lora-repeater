@@ -1,5 +1,6 @@
 # lora-repeater
 ## Schematic:
+### XL1278
 Reset - A10
 
 DIO0 - A9
