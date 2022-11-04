@@ -1,4 +1,5 @@
 # lora-repeater
+###### STM32 Blue Pill
 ## Schematic:
 ### XL1278
 Reset - A10
